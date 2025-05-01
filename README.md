@@ -80,3 +80,7 @@ Potential enhancements to the project could include:
 
 ## 📄 License
 [MIT License](LICENSE)
+
+## 👤 Author
+Created by Yasteer Sewpersad
+Electronic Engineering Portfolio of Evidence
