@@ -82,5 +82,7 @@ Potential enhancements to the project could include:
 [MIT License](LICENSE)
 
 ## 👤 Author
+
 > Created by Yasteer Sewpersad
+
 > Electronic Engineering Portfolio of Evidence
